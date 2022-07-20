@@ -45,3 +45,63 @@
 | Google Sheets | Allows you to read, write, and format Google Sheet data | [Check here](https://developers.google.com/sheets/api/reference/rest) |
 | Google Slides | Allows you to read, write, and format Google Slide presentation | [Check here](https://developers.google.com/slides/api/reference/rest) |
 | GitHub | To create integrations, retrieve data, and automate your workflows, build with the GitHub REST API. | [Check here](https://docs.github.com/en/rest) |
+| IP Fast | Allows developers access to IP Address data to create apps, websites or services. | [Check here](https://ip-fast.com/docs/) |
+| Image-Charts | Generate Pi charts, graph images | [Check here](https://documentation.image-charts.com/) |
+| Import.io | Retrieve structured data from a website or RSS feed | [Check here](http://api.docs.import.io/) |
+| Oyyi | Image Optimizer, Url Shortner , Fake Data , Thumbnail Generation | [Check here](https://v1-docs.oyyi.xyz/) |
+| Postman | API testing tool | [Check here](https://www.postman.com/postman/workspace/postman-public-workspace/documentation) |
+| Pusher Beams | Send push notifications with scalable delivery, security and insights | [Check here](https://pusher.com/beams) |
+| Go QR | Generate QE Codes | [Check here](https://goqr.me/api/) |
+| Quick Chart | Static image charts for email, reports, and anywhere else. | [Check here](https://quickchart.io/) |
+| Random Stuff | Allows you to get AI responses, jokes, memes, anime, facts, animal images, image manipulation, and many other things | [Check here](https://api-docs.pgamerx.com/) |
+| Save Page | Allows you to screenshot any desktop or mobile website | [Check here](https://www.savepage.io/) |
+| Scrape Ninja | Get any website data via bulletproof realtime API | [Check here](https://scrapeninja.net/) |
+| Serpstack | Real-Time & Accurate Google Search Results API | [Check here](https://serpstack.com/) |
+| Sheetsu | Connect Google Sheet to your application | [Check here](https://sheetsu.com/) |
+| Statically | Helps your website load faster | [Check here](https://statically.io/) |
+| Free Dictionary | Definitions, phonetics, pronunciation, parts of speech, examples, synonyms | [Check here](https://dictionaryapi.dev/) |
+| Lingua Robot | English dictionary API providing an access to data of over 800,000 English lexical entries, such as words, phrasal verbs, multi-word expressions. | [Check here](https://www.linguarobot.io/) |
+| Synonyms | Enables you to programmatically access Synonyms, Thesaurus and Antonyms information for any given word. | [Check here](https://www.synonyms.com/synonyms_api.php) |
+| Airtable | Integrate Airtable in your App | [Check here](https://airtable.com/api) |
+| Api2Convert | Convert files such as videos, images, documents, edit PDF files and more. | [Check here](https://www.api2convert.com/) |
+| PDF Layer | Converts HTML or URL to PDF | [Check here](https://pdflayer.com/) |
+| ClickUp API | Productive project management tool’s API | [Check here](https://clickup.com/api) |
+| CloudConvert | File converter for audio, video, document, ebook, archive, image, spreadsheet, presentation | [Check here](https://cloudconvert.com/api/v2) |
+| CloudMersive | HTML/URL to PDF/PNG, Office documents to PDF, image conversion | [Check here](https://cloudmersive.com/convert-api) |
+| Zube | Full stack project management | [Check here](https://zube.io/docs/api) |
+| Waka Time | Automated time tracking leaderboards for programmers | [Check here](https://wakatime.com/developers) |
+| Cloud::Stats | Automatic time tracking for programmers | [Check here](https://codestats.net/api-docs) |
+| Vector Express | Vector file converting API | [Check here](https://vector.express/) |
+| Todoist API | Integrate Todoist | [Check here](https://developer.todoist.com/guides/#developing-with-todoist) |
+| Restpack | Convert Webpage to PDF or PNG (Screenshot) | [Check here](https://restpack.io/) |
+| Podio | File sharing and productivity API | [Check here](https://developers.podio.com/) |
+| Pocket | Bring the power of save for later to your users and applications by integrating the Pocket API. | [Check here](https://getpocket.com/developer/) |
+| PandaDoc | DocGen and eSignatures API | [Check here](https://developers.pandadoc.com/) |
+| Notion API | Integrate with Notion | [Check here](https://developers.notion.com/docs/getting-started) |
+| Mercury | Takes any web article and returns only the relevant content — headline, author, body text, relevant images and more. | [Check here](https://mercury.postlight.com/web-parser/) |
+| Mattermost | An open source platform for developer collaboration | [Check here](https://api.mattermost.com/) |
+| ilovepdf API | Convert, merge, split, extract text and add page numbers for PDFs. Free for 250 documents/month | [Check here](https://developer.ilovepdf.com/) |
+| CraftMyPDF | Generate PDF documents from templates with a drop-and-drop editor and a simple API | [Check here](https://craftmypdf.com/) |
+| WeatherBit | Weather API | [Check here](https://www.weatherbit.io/api) |
+| WeatheraAPI | Weather API with other stuff like Astronomy and Geolocation API | [Check here](https://www.weatherapi.com/) |
+|  StormGlass | Global marine weather from multiple sources | [Check here](https://stormglass.io/) |
+| Micro Weather | Real time weather forecasts and historic data | [Check here](https://m3o.com/weather/api) |
+| ODWeather | Weather and weather webcams | [Check here](https://api.oceandrivers.com/static/docs.html) |
+| YouTube | Embed video player, search YouTube content, upload videos. | [Check here](https://developers.google.com/youtube/) |
+| Web Series Quotes | API automatically generate quotes with background image. Api also returns the Quotes and its author as json. | [Check here](https://github.com/yogeshwaran01/web-series-quotes) |
+| Vimeo | High quality video integration API  | [Check here](https://developer.vimeo.com/) |
+| WatchMode | API for finding out the streaming availability of movies & shows | [Check here](https://api.watchmode.com/) |
+| TMDB | Community-based movie data API | [Check here](https://www.themoviedb.org/documentation/api) |
+| Thrones API | Game Of Thrones Characters Data with imagery | [Check here](https://thronesapi.com/) |
+| Cuttly | URL Shortner API | [Check here](https://cutt.ly/api-documentation/cuttly-links-api) |
+| Uber | Uber ride requests and price estimation | [Check here](https://developer.uber.com/products) |
+| Pixela | you can get a GitHub like graph that expresses the degree of your daily various activities on a basis with a vivid gradation. | [Check here](https://pixe.la/) |
+| PostalPinCode | Indian Postal Pin Codes | [Check here](http://www.postalpincode.in/Api-Details) |
+| UPS | Shipment and Address information | [Check here](https://www.ups.com/upsdeveloperkit) |
+| Detect Language | Language detection webservice analyzes provided text and returns identified language | [Check here](https://detectlanguage.com/) |
+| Hirak OCR | Image to text -text recognition- from image more than 100 language, accurate, unlimited requests | [Check here](https://ocr.hirak.site/) |
+| Tisane | Detect cyberbullying, hate speech, sexual harassment, suicidal behavior, topics, entities and more in nearly 30 languages. | [Check here](https://tisane.ai/) |
+| API-Football | Get information about football matches, leagues and cups | [Check here](https://www.api-football.com/documentation-v3) |
+| Discord | Make Bots, integration and many more. | [Check here](https://discord.com/developers/docs/intro) |
+| Instagram | Instagram Login, Share on Instagram, Social Plugins and more | [Check here](https://www.instagram.com/developer/) |
+| Reddit | Reddit API, Integration and more | [Check here](https://developers.pinterest.com/) |
