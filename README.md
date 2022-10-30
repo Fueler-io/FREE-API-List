@@ -105,3 +105,5 @@
 | Discord | Make Bots, integration and many more. | [Check here](https://discord.com/developers/docs/intro) |
 | Instagram | Instagram Login, Share on Instagram, Social Plugins and more | [Check here](https://www.instagram.com/developer/) |
 | Reddit | Reddit API, Integration and more | [Check here](https://developers.pinterest.com/) |
+| Google Translate | [Check here](https://translate.google.com/intl/en/about/forbusiness/) |
+| Instagram API | [Check here](https://rapidapi.com/Prasadbro/api/instagram47/) |
