@@ -107,3 +107,6 @@
 | Reddit | Reddit API, Integration and more | [Check here](https://developers.pinterest.com/) |
 | Google Translate | [Check here](https://translate.google.com/intl/en/about/forbusiness/) |
 | Instagram API | [Check here](https://rapidapi.com/Prasadbro/api/instagram47/) |
+| CoinGecko | Cryptoccurency API | [Check here](https://www.coingecko.com/en/api) |
+| Website Carbon API | API that allow you to see how estimate website carbon footprint | [Check here](https://api.websitecarbon.com/) |
+| GraphQL Jobs API | API for Jobs with GraphQL | [Check here](https://graphql.jobs/docs/api/) |
