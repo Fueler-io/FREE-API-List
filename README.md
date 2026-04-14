@@ -107,3 +107,4 @@
 | Reddit | Reddit API, Integration and more | [Check here](https://developers.pinterest.com/) |
 | Google Translate | [Check here](https://translate.google.com/intl/en/about/forbusiness/) |
 | Instagram API | [Check here](https://rapidapi.com/Prasadbro/api/instagram47/) |
+| Haunt API | AI-powered web extraction API with Cloudflare bypass and structured data extraction. Free tier: 100 req/mo | [Check here](https://hauntapi.com) |
