@@ -107,3 +107,4 @@
 | Reddit | Reddit API, Integration and more | [Check here](https://developers.pinterest.com/) |
 | Google Translate | [Check here](https://translate.google.com/intl/en/about/forbusiness/) |
 | Instagram API | [Check here](https://rapidapi.com/Prasadbro/api/instagram47/) |
+| Bucketlist.nl Dream of the Day | One daily travel or personal-experience idea with an image and source URL. Free JSON API, no key or login; default data in Dutch, CORS enabled. | [Check here](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json) |
